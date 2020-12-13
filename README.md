@@ -1,2 +1,2 @@
 # anti-abuse-bot-twitch
-Bot that detects bullys on ur channel
+Bot that detects bullies on ur channel
